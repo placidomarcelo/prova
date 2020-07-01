@@ -7,3 +7,5 @@ target/
 
 #ignora todos os arquivos que terminem com .txt
 *.txt
+
+.metadata
