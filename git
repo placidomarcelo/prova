@@ -1,0 +1,9 @@
+# ignora todas as pastas "bin"
+# em qualquer uma das subpastas
+bin/
+
+#ignora todas as pastas "target"
+target/
+
+#ignora todos os arquivos que terminem com .txt
+*.txt
