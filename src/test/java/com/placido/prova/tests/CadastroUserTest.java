@@ -17,7 +17,7 @@ public class CadastroUserTest {
 
 	@Before
 	public void setUp() throws InterruptedException {
-		System.setProperty("webdriver.chrome.driver", "C:\\Drivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "src/test/resources/chromedriver.exe");
 		driver = new ChromeDriver();
 		BasePage basepage = new BasePage(driver);
 		basepage.visit();
