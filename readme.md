@@ -65,7 +65,7 @@ Selenium é uma estrutura portátil para testar aplicativos da web .
 Controle de versão.
 
 
-## OBSERVAcoES
+## OBSERVACOES
 
 - Link repositório: https://gitlab.com/placido.marcelo/prova_sicredi.git
 
