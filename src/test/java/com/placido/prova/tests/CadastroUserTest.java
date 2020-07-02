@@ -23,7 +23,7 @@ public class CadastroUserTest {
 		basepage.visit();
 		driver.manage().window().maximize();
 	}
-
+ 
 	@After
 	public void tearDown() {
 		driver.quit();
